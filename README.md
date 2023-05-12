@@ -21,7 +21,7 @@
 <img width="49%" src="./github-images/8.png" alt="ng-ha" />
 </div>
 
-https://github.com/ng-ha/deliveroo/assets/115610452/608bd91b-d458-4172-82f8-a7ab9e9a5854
+https://github.com/ng-ha/signal/assets/115610452/adb29916-2e10-4edf-a89f-9909c565b8e7
 
 ### License :right_anger_bubble:
 
