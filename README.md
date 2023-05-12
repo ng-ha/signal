@@ -1,4 +1,4 @@
-# Signal app with `React-Native` + `Firebase` 📨
+# Signal with `React-Native` + `Firebase` 📨
 
 ### Technologies ✨
 
