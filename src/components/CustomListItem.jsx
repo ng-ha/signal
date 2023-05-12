@@ -1,4 +1,3 @@
-import { Text, View } from 'react-native';
 import React, { useEffect, useState } from 'react';
 import { Avatar, ListItem } from '@rneui/themed';
 import { collection, onSnapshot, orderBy, query } from 'firebase/firestore';
