@@ -1,4 +1,4 @@
-# Signal clone with `React-Native` + `Firebase` 📨
+# Signal app with `React-Native` + `Firebase` 📨
 
 ### Technologies ✨
 
